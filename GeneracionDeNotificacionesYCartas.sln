@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "sysGeneracionDeNotificacionesYCartas", "sysGeneracionDeNotificacionesYCartas\sysGeneracionDeNotificacionesYCartas.vbproj", "{B5A6EAF7-9E26-42F4-9B05-7650366FDDDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5A6EAF7-9E26-42F4-9B05-7650366FDDDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5A6EAF7-9E26-42F4-9B05-7650366FDDDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5A6EAF7-9E26-42F4-9B05-7650366FDDDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5A6EAF7-9E26-42F4-9B05-7650366FDDDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C37DFB71-4911-4403-B508-B968B4C6D469}
+	EndGlobalSection
+EndGlobal
