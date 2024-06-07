@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B5A6EAF7-9E26-42F4-9B05-7650366FDDDA}</ProjectGuid>
+    <ProjectGuid>{F6750546-E66E-43A2-B837-E294E619E693}</ProjectGuid>
     <OutputType>Library</OutputType>
-    <RootNamespace>sysGeneracionDeNotificacionesYCartas</RootNamespace>
-    <AssemblyName>sysGeneracionDeNotificacionesYCartas</AssemblyName>
+    <RootNamespace>blGeneracionDeNotificacionesYCartas</RootNamespace>
+    <AssemblyName>blGeneracionDeNotificacionesYCartas</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <MyType>Windows</MyType>
     <TargetFrameworkVersion>v4.8.1</TargetFrameworkVersion>
@@ -19,7 +19,7 @@
     <DefineDebug>true</DefineDebug>
     <DefineTrace>true</DefineTrace>
     <OutputPath>bin\Debug\</OutputPath>
-    <DocumentationFile>sysGeneracionDeNotificacionesYCartas.xml</DocumentationFile>
+    <DocumentationFile>blGeneracionDeNotificacionesYCartas.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
@@ -28,7 +28,7 @@
     <DefineTrace>true</DefineTrace>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
-    <DocumentationFile>sysGeneracionDeNotificacionesYCartas.xml</DocumentationFile>
+    <DocumentationFile>blGeneracionDeNotificacionesYCartas.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup>
@@ -137,14 +137,6 @@
       <CustomToolNamespace>My</CustomToolNamespace>
       <LastGenOutput>Settings.Designer.vb</LastGenOutput>
     </None>
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="bd\datos\" />
-    <Folder Include="bd\paquetes\" />
-    <Folder Include="bd\secuencias\" />
-    <Folder Include="bd\tablas\" />
-    <Folder Include="bd\vistas\" />
-    <Folder Include="vb\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>

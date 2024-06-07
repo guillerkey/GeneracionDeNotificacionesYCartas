@@ -5,6 +5,8 @@ VisualStudioVersion = 17.10.34928.147
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "sysGeneracionDeNotificacionesYCartas", "sysGeneracionDeNotificacionesYCartas\sysGeneracionDeNotificacionesYCartas.vbproj", "{B5A6EAF7-9E26-42F4-9B05-7650366FDDDA}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "blGeneracionDeNotificacionesYCartas", "blGeneracionDeNotificacionesYCartas\blGeneracionDeNotificacionesYCartas.vbproj", "{F6750546-E66E-43A2-B837-E294E619E693}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B5A6EAF7-9E26-42F4-9B05-7650366FDDDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B5A6EAF7-9E26-42F4-9B05-7650366FDDDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B5A6EAF7-9E26-42F4-9B05-7650366FDDDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6750546-E66E-43A2-B837-E294E619E693}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6750546-E66E-43A2-B837-E294E619E693}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6750546-E66E-43A2-B837-E294E619E693}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6750546-E66E-43A2-B837-E294E619E693}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
